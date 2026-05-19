@@ -73,9 +73,9 @@
 ## 🛠️ 页面预览
 
 ### 🐈宠物模块页面
-   <img width="315" height="678" alt="image" src="https://github.com/user-attachments/assets/cd48468d-6e43-4eb7-ba89-d204b0a9ff54" />
-   <img width="318" height="678" alt="image" src="https://github.com/user-attachments/assets/e8a2a768-99b0-4f5e-bf69-568c97a43df1" />
-    <img width="315" height="677" alt="image" src="https://github.com/user-attachments/assets/b3ffd14c-04df-4861-b963-5d90ce218411" />
+<img src="https://github.com/user-attachments/assets/cd48468d-6e43-4eb7-ba89-d204b0a9ff54" width="30%" />
+<img src="https://github.com/user-attachments/assets/e8a2a768-99b0-4f5e-bf69-568c97a43df1" width="30%" />
+<img src="https://github.com/user-attachments/assets/b3ffd14c-04df-4861-b963-5d90ce218411" width="30%" />
     
 ### 🎮小游戏模块页面
 <img width="322" height="692" alt="image" src="https://github.com/user-attachments/assets/9209805d-95bf-4adf-ad49-deb517d87294" />
