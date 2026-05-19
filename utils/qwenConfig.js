@@ -3,7 +3,7 @@
 
 const QWEN_CONFIG = {
   // 请替换为你的 API Key
-  API_KEY: 'sk-f9e633ead2424393b85ca87fdec41621',
+  API_KEY: '',
   
   // API 端点
   API_URL: 'https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation',
