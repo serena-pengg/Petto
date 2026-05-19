@@ -12,10 +12,10 @@
 
 const BAIDU_VOICE_CONFIG = {
   // 替换为你的百度 API Key（通常24位字符）
-  API_KEY: 'k71M0RA7WIaDFNlnpvWF7jJ7',
+  API_KEY: '',
   
   // 替换为你的百度 Secret Key（通常32位字符）
-  SECRET_KEY: '6CPIKjBRXY7UlIhbHb5xecXYCNYdyPC7',
+  SECRET_KEY: '',
   
   // 以下字段会自动管理，无需修改
   ACCESS_TOKEN: '',
